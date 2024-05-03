@@ -38,7 +38,7 @@ function updateEducation(profileData) {
         return `
             <li>
                 <h3 class="title">${education.name}</h3>
-                <p class="period">${education.period}</p>
+                <p class="period">${education.periodo}</p>
             </li>
         `
     }).join('')
@@ -67,7 +67,7 @@ function updateProfessionalExperience(profileData) {
         return `
             <li>
                 <h3 class="title">${experience.name}</h3>
-                <p class="period">${experience.period}</p>
+                <p class="periodo">${experience.period}</p>
                 <p>${experience.description}</p>
             </li>
         `
