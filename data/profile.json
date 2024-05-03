@@ -53,12 +53,12 @@
     "portfolio": [
       {
         "name": "Meu portfólio",
-        "url": "https://github.com/VINICIUSWALTRIK",
+        "url": "https://github.com/VINICIUSWALTRIK/PORTF-LIO.git",
         "github": true
       },
       {
         "name": "Pokedex",
-        "url": "https://github.com/VINICIUSWALTRIK",
+        "url": "https://github.com/VINICIUSWALTRIK/POKEDEX.git",
         "github": true
       }
     ],
