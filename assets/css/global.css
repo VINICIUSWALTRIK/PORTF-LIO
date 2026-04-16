@@ -29,23 +29,30 @@ a:hover {
     border-radius: 1rem;
 }
 
-.main::before {
+/*.main::before {
     content: '';
-    background-image: url('../img/background.svg');
+    background-image: url('../img/background.png');
     background-repeat: no-repeat;
-    background-size: contain;
-    width: 140vw;
+    background-size: cover;      
+    background-position: center;  
+    width: 100vw;
     height: 100vh;
-    display: inline-block;
     position: fixed;
     top: 0;
     left: 0;
     z-index: -1;
+}*/
+
+body {
+    background: url('../img/background.png') no-repeat center center;
+    background-size: cover;
+    background-color: #000;
+    color: #fff;
 }
 
-.main::after {
+/*.main::after {
     content: '';
-    background-image: url('../img/background.svg');
+    background-image: url('../img/background.');
     background-repeat: no-repeat;
     background-size: contain;
     display: inline-block;
@@ -56,7 +63,7 @@ a:hover {
     right: 0;
     z-index: -1;
     transform: rotate(180deg);
-}
+}*/
 
 @media only screen and (min-width: 768px) {
     .main {
