@@ -1,7 +1,7 @@
 {
     "name": "Vinicius Waltrik",
     "photo": "https://avatars.githubusercontent.com/u/104602356?v=4",
-    "job": "Desenvolvedor",
+    "job": "Analista de Projetos | SM | Gestão de Projetos",
     "location": "Rio Claro - SP",
     "phone": "(19) 99985-6156",
     "email": "waltrikvinicius@gmail.com",
@@ -25,13 +25,17 @@
         }
       ],
       "softSkills": [
-        "Paixão pela Qualidade",
-        "Resolução de problemas",
-        "Trabalho em equipe",
-        "Determinação"
+        "Gestão de prioridades em ambiente ágil",
+        "Orientação a resultados e melhoria contínu",
+        "roatividade e aprendizado contínuo",
+        "Comunicação com stakeholders"
       ]
     },
     "education": [
+        {
+          "name": "MBA em Gestão de Projetos de TI e Metodologias Ágeis",
+          "periodo": "Nov 2025 - Nov 2026"
+        },
         {
           "name": "Analise e desenvolvimento de sistemas - Claretiano",
           "periodo": "Jan 2023 - Jul 2025"
@@ -39,15 +43,11 @@
         {
           "name": "Técnico de qualidade - EduQ",
           "periodo": "Jan 2022 - Dez 2022"
-        },
-        {
-          "name": "Algoritmos e Logica de programação - Udemy",
-          "periodo": "Fev 2024"
         }
       ],
     "languages": [
       "Português BR",
-      "Inglês - Basico"
+      "Inglês - Básico"
     ],
     "portfolio": [
       {
@@ -63,13 +63,13 @@
     ],
     "professionalExperience": [
       {
-        "name": "Analista de suporte de sistemas Jr",
-        "period": "Fev 2024 - Dez 2024",
+        "name": "Analista de Projetos Jr",
+        "period": "Out 2025 - Atual",
         "description": "Casa do Construtor"
       },
       {
-        "name": "Analista de Projetos Jr",
-        "period": "Jan 2025 - Atual",
+        "name": "Analista de suporte de sistemas Jr",
+        "period": "Fev 2025 - Out 2025",
         "description": "Casa do Construtor"
       }
     ]
